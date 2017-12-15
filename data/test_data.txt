@@ -1,0 +1,1223 @@
+LOCUS       AB453192                 280 bp    DNA     linear   BCT 17-SEP-2009
+DEFINITION  Acinetobacter sp. TC19 gene for 16S rRNA, partial sequence.
+ACCESSION   AB453192
+VERSION     AB453192.1
+KEYWORDS    .
+SOURCE      Acinetobacter sp. TC19
+  ORGANISM  Acinetobacter sp. TC19
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+            Moraxellaceae; Acinetobacter.
+REFERENCE   1
+  AUTHORS   Ogawa,G., Ishida,M. and Urano,N.
+  TITLE     Isolation and identification of dibutyl phthalate-degrading
+            bacteria from hydrospheres in Tokyo
+  JOURNAL   J. Gen. Appl. Microbiol. 55 (4), 261-265 (2009)
+   PUBMED   19700919
+REFERENCE   2  (bases 1 to 280)
+  AUTHORS   Urano,N., Ishida,M. and Ogawa,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2008) Contact:Naoto Urano Tokyo University of
+            Marine Science and Technology, Laboratory of Marine Biochemistry;
+            Konan 4-5-7, Minato, Tokyo 108-8477, Japan
+FEATURES             Location/Qualifiers
+     source          1..280
+                     /organism="Acinetobacter sp. TC19"
+                     /mol_type="genomic DNA"
+                     /strain="TC19"
+                     /isolation_source="hydrosphere"
+                     /db_xref="taxon:553817"
+                     /country="Japan: Tokyo"
+     rRNA            <1..>280
+                     /product="16S ribosomal RNA"
+ORIGIN
+        1 tcagattgaa cgctggcggc aggcttaaca catgcaagtc gagcggggga aggtagcttg
+       61 ctactggacc tagcggcgga cgggtgagta atgcttagga atctgcctat tagtggggga
+      121 caacattccg aaaggaatgc taataccgca tacgtcctac gggagaaagc aggggacctt
+      181 cgggccttgc gctaatagat gagcctaagt cggattagct agttggtggg gtaaaggcct
+      241 accaaggcga cgatctgtag cgggtctgag aggatgatcc
+//
+LOCUS       AB453193                 280 bp    DNA     linear   BCT 17-SEP-2009
+DEFINITION  Acinetobacter sp. TC21 gene for 16S rRNA, partial sequence.
+ACCESSION   AB453193
+VERSION     AB453193.1
+KEYWORDS    .
+SOURCE      Acinetobacter sp. TC21
+  ORGANISM  Acinetobacter sp. TC21
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+            Moraxellaceae; Acinetobacter.
+REFERENCE   1
+  AUTHORS   Ogawa,G., Ishida,M. and Urano,N.
+  TITLE     Isolation and identification of dibutyl phthalate-degrading
+            bacteria from hydrospheres in Tokyo
+  JOURNAL   J. Gen. Appl. Microbiol. 55 (4), 261-265 (2009)
+   PUBMED   19700919
+REFERENCE   2  (bases 1 to 280)
+  AUTHORS   Urano,N., Ishida,M. and Ogawa,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2008) Contact:Naoto Urano Tokyo University of
+            Marine Science and Technology, Laboratory of Marine Biochemistry;
+            Konan 4-5-7, Minato, Tokyo 108-8477, Japan
+FEATURES             Location/Qualifiers
+     source          1..280
+                     /organism="Acinetobacter sp. TC21"
+                     /mol_type="genomic DNA"
+                     /strain="TC21"
+                     /isolation_source="hydrosphere"
+                     /db_xref="taxon:553818"
+                     /country="Japan: Tokyo"
+     rRNA            <1..>280
+                     /product="16S ribosomal RNA"
+ORIGIN
+        1 tcagattgaa cgctggcggc aggcttaaca catgcaagtc gagcggggga aggtagcttg
+       61 ctactggacc tagcggcgga cgggtgagta atgcttagga atctgcctat tagtggggga
+      121 caacattccg aaaggaatgc taataccgca tacgtcctac gggagaaagc aggggacctt
+      181 cgggccttgc gctaatagat gagcctaagt cggattagct agttggtggg gtaaaggcct
+      241 accaaggcga cgatctgtag cgggtctgag aggatgatcc
+//
+LOCUS       AB474854                 410 bp    DNA     linear   BCT 24-JUL-2016
+DEFINITION  Mannheimia haemolytica parC gene for topoisomerase IV subunit A,
+            partial cds, strain: TBMh19.
+ACCESSION   AB474854
+VERSION     AB474854.1
+KEYWORDS    .
+SOURCE      Mannheimia haemolytica
+  ORGANISM  Mannheimia haemolytica
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+            Pasteurellaceae; Mannheimia.
+REFERENCE   1
+  AUTHORS   Katsuda,K., Kohmoto,M., Mikami,O. and Uchida,I.
+  TITLE     Antimicrobial resistance and genetic characterization of
+            fluoroquinolone-resistant Mannheimia haemolytica isolates from
+            cattle with bovine pneumonia
+  JOURNAL   Vet. Microbiol. 139 (1-2), 74-79 (2009)
+   PUBMED   19428195
+REFERENCE   2  (bases 1 to 410)
+  AUTHORS   Katsuda,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2009) Contact:Ken Katsuda National Institute of
+            Animal Health, Environmental/Enzootic Diseases Research Team; 31
+            Uminai, Shichinohe, Kamikita, Aomori 039-2586, Japan
+FEATURES             Location/Qualifiers
+     source          1..410
+                     /organism="Mannheimia haemolytica"
+                     /mol_type="genomic DNA"
+                     /strain="TBMh19"
+                     /serotype="1"
+                     /host="Bos taurus lung"
+                     /db_xref="taxon:75985"
+                     /country="Japan"
+                     /collection_date="1990"
+     gene            <1..>410
+                     /gene="parC"
+     CDS             <1..>410
+                     /gene="parC"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="topoisomerase IV subunit A"
+                     /protein_id="BAH70162.1"
+                     /translation="PVQRRIIYAMSELGLNASAKYKKSARTVGDVLGKFHPHGDSACY
+                     EAMVLMAQPFSYRYPLVDGQGNWGAPDDPKSFAAMRYTESKLSKIAEILLGELGQGTV
+                     DYQPNFDGSLEEPKYLPARLPHILLNGTMGIAVG"
+ORIGIN
+        1 aaccggtgca acgccgtatt atttatgcga tgtcggaact tgggctaaac gcctcggcaa
+       61 agtataaaaa atcagcccgt accgtggggg atgtattagg taaattccat ccgcacggtg
+      121 atagtgcctg ctatgaagca atggtgctaa tggctcaacc gttctcttac cgctatccgt
+      181 tagtggacgg acaaggcaac tggggggctc cggacgatcc gaaatccttc gctgcaatgc
+      241 gttataccga atcgaaactg tctaaaattg cagaaatttt attgggcgag ttagggcaag
+      301 gaacggtgga ttatcagcca aattttgatg gctcgttgga agaaccgaaa tatctgccgg
+      361 ctcgtttacc gcatattttg ttgaatggca cgatggggat tgcggtggga
+//
+LOCUS       AB474855                 410 bp    DNA     linear   BCT 24-JUL-2016
+DEFINITION  Mannheimia haemolytica parC gene for topoisomerase IV subunit A,
+            partial cds, strain: TBMh20.
+ACCESSION   AB474855
+VERSION     AB474855.1
+KEYWORDS    .
+SOURCE      Mannheimia haemolytica
+  ORGANISM  Mannheimia haemolytica
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+            Pasteurellaceae; Mannheimia.
+REFERENCE   1
+  AUTHORS   Katsuda,K., Kohmoto,M., Mikami,O. and Uchida,I.
+  TITLE     Antimicrobial resistance and genetic characterization of
+            fluoroquinolone-resistant Mannheimia haemolytica isolates from
+            cattle with bovine pneumonia
+  JOURNAL   Vet. Microbiol. 139 (1-2), 74-79 (2009)
+   PUBMED   19428195
+REFERENCE   2  (bases 1 to 410)
+  AUTHORS   Katsuda,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2009) Contact:Ken Katsuda National Institute of
+            Animal Health, Environmental/Enzootic Diseases Research Team; 31
+            Uminai, Shichinohe, Kamikita, Aomori 039-2586, Japan
+FEATURES             Location/Qualifiers
+     source          1..410
+                     /organism="Mannheimia haemolytica"
+                     /mol_type="genomic DNA"
+                     /strain="TBMh20"
+                     /serotype="2"
+                     /host="Bos taurus lung"
+                     /db_xref="taxon:75985"
+                     /country="Japan"
+                     /collection_date="1994"
+     gene            <1..>410
+                     /gene="parC"
+     CDS             <1..>410
+                     /gene="parC"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="topoisomerase IV subunit A"
+                     /protein_id="BAH70163.1"
+                     /translation="PVQRRIIYAMSELGLNASAKYKKSARTVGDVLGKFHPHGDSACY
+                     EAMVLMAQPFSYRYPLVDGQGNWGAPDDPKSFAAMRYTESKLSKIAEILLGELGQGTV
+                     DYQPNFDGSLEEPKYLPARLPHILLNGTMGIAVG"
+ORIGIN
+        1 aaccggtgca acgccgtatt atttatgcga tgtcggaact tgggctaaac gcctcggcaa
+       61 agtataaaaa atcagcccgt accgtggggg atgtattagg taaattccat ccgcacggtg
+      121 atagtgcctg ctatgaagca atggtgctaa tggctcaacc gttctcttac cgctatccgt
+      181 tagtggacgg acaaggcaac tggggggctc cggacgatcc gaaatccttc gctgcaatgc
+      241 gttataccga atcgaaactg tctaaaattg cagaaatttt attgggcgag ttagggcaag
+      301 gaacggtgga ttatcagcca aattttgatg gctcgttgga agaaccgaaa tatctgccgg
+      361 ctcgtttacc gcatattttg ttgaatggca cgatggggat tgcggtggga
+//
+LOCUS       AB453178                 746 bp    DNA     linear   BCT 24-JUL-2016
+DEFINITION  Leptospira sp. KRC-146 flaB gene for flagellin, partial cds.
+ACCESSION   AB453178
+VERSION     AB453178.1
+KEYWORDS    .
+SOURCE      Leptospira sp. KRC-146
+  ORGANISM  Leptospira sp. KRC-146
+            Bacteria; Spirochaetes; Leptospirales; Leptospiraceae; Leptospira.
+REFERENCE   1
+  AUTHORS   Koizumi,N., Uchida,M., Makino,T., Taguri,T., Kuroki,T., Muto,M.,
+            Kato,Y. and Watanabe,H.
+  TITLE     Isolation and characterization of Leptospira spp. from raccoons in
+            Japan
+  JOURNAL   J. Vet. Med. Sci. 71 (4), 425-429 (2009)
+   PUBMED   19420844
+REFERENCE   2  (bases 1 to 746)
+  AUTHORS   Koizumi,N., Uchida,M., Makino,T., Taguri,T., Kawanaka,M., Muto,M.,
+            Kuroki,T., Kato,Y. and Watanabe,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2008) Contact:Nobuo Koizumi National Institute of
+            Infectious Diseases, Department of Bacteriology; 1-23-1, Toyama,
+            Shinjuku-ku, Tokyo 162-8640, Japan
+FEATURES             Location/Qualifiers
+     source          1..746
+                     /organism="Leptospira sp. KRC-146"
+                     /mol_type="genomic DNA"
+                     /isolate="KRC-146"
+                     /isolation_source="kidney of raccoon"
+                     /db_xref="taxon:553090"
+                     /country="Japan"
+     gene            <1..>746
+                     /gene="flaB"
+     CDS             <1..>746
+                     /gene="flaB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="flagellin"
+                     /protein_id="BAH22436.1"
+                     /translation="ELAVDKTMKALSSGMRINSAADDASGLAVSEKLRTQVNGLRQAE
+                     RNTEDGMSFIQTAEGFLEQTSNIIQRIRVLAIQTSNGIYSNEDRQLVQVEVSALVDEV
+                     DRIASQAEFNKFKLFEGQFARGSRVASMWFHMGPNQNQRERFYIGTMTSKALKLVKAD
+                     GRPIAISSPGEANDVIGLADAALTKIMKQRADMGAYYNRLEYTAKGLMGAYENMQASE
+                     SRIRDADMAEEVVSLTTKQILVQSGTAMLA"
+ORIGIN
+        1 gaacttgctg tggacaagac gatgaaagct ctgtcttccg gtatgcggat taattctgct
+       61 gcggacgacg cttccggact tgcagtttcc gaaaagctta gaacgcaagt aaacggtttg
+      121 cgtcaagcgg aaaggaatac tgaagacgga atgagtttta ttcaaactgc cgaaggattt
+      181 ctggagcaga cgtctaacat cattcaaaga atccgggtgc tcgccatcca gacttcgaat
+      241 ggtatctaca gtaatgaaga taggcagctc gtgcaggtgg aagtatctgc gctggtggat
+      301 gaagtcgatc gaattgcttc tcaggctgaa tttaataagt tcaaactttt tgaaggccaa
+      361 ttcgctagag gttccagggt tgcatccatg tggtttcata tgggtccaaa ccaaaatcag
+      421 cgtgaaagat tttacatagg cacgatgact tcaaaggctc tgaagcttgt aaaagcggac
+      481 gggaggccga tcgcgatctc ttctccggga gaggctaacg acgtgatcgg tctggcagat
+      541 gctgccctta cgaagatcat gaagcagaga gcggatatgg gagcttatta taataggctt
+      601 gaatataccg caaagggtct gatgggtgcg tatgaaaata tgcaggcatc tgaatctaga
+      661 attcgagacg ccgatatggc ggaagaagtt gtctcgctga ccacaaaaca aatacttgta
+      721 cagagtggta cggcaatgtt ggcgca
+//
+LOCUS       AB453179                 746 bp    DNA     linear   BCT 24-JUL-2016
+DEFINITION  Leptospira sp. NRC-29 flaB gene for flagellin, partial cds.
+ACCESSION   AB453179
+VERSION     AB453179.1
+KEYWORDS    .
+SOURCE      Leptospira sp. NRC-29
+  ORGANISM  Leptospira sp. NRC-29
+            Bacteria; Spirochaetes; Leptospirales; Leptospiraceae; Leptospira.
+REFERENCE   1
+  AUTHORS   Koizumi,N., Uchida,M., Makino,T., Taguri,T., Kuroki,T., Muto,M.,
+            Kato,Y. and Watanabe,H.
+  TITLE     Isolation and characterization of Leptospira spp. from raccoons in
+            Japan
+  JOURNAL   J. Vet. Med. Sci. 71 (4), 425-429 (2009)
+   PUBMED   19420844
+REFERENCE   2  (bases 1 to 746)
+  AUTHORS   Koizumi,N., Uchida,M., Makino,T., Taguri,T., Kawanaka,M., Muto,M.,
+            Kuroki,T., Kato,Y. and Watanabe,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2008) Contact:Nobuo Koizumi National Institute of
+            Infectious Diseases, Department of Bacteriology; 1-23-1, Toyama,
+            Shinjuku-ku, Tokyo 162-8640, Japan
+FEATURES             Location/Qualifiers
+     source          1..746
+                     /organism="Leptospira sp. NRC-29"
+                     /mol_type="genomic DNA"
+                     /serovar="Hebdomadis"
+                     /isolate="NRC-29"
+                     /isolation_source="kidney of raccoon"
+                     /db_xref="taxon:553091"
+                     /country="Japan"
+     gene            <1..>746
+                     /gene="flaB"
+     CDS             <1..>746
+                     /gene="flaB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="flagellin"
+                     /protein_id="BAH22437.1"
+                     /translation="ELAVDKTMKALSSGMRINSAADDASGLAVSEKLRTQVNGLRQAE
+                     RNTEDGMSFIQTAEGFLEQTSNIIQRIRVLAIQTSNGIYSNEDRQLVQVEVSALVDEV
+                     DRIASQAEFNKFKLFEGQFARGSRVASMWFHMGPNQNQRERFYIGTMTSKALKLVKAD
+                     GRPIAISSPGEANDVIGLADAALTKIMKQRADMGAYYNRLEYTAKGLMGAYENMQASE
+                     SRIRDADMAEEVVSLTTKQILVQSGTAMLA"
+ORIGIN
+        1 gaacttgctg tggacaagac gatgaaagct ctgtcttccg gtatgcggat taattctgct
+       61 gcggacgacg cttccggact tgcagtttcc gaaaagctta gaacgcaagt aaacggtttg
+      121 cgtcaagcgg aaaggaatac tgaagacgga atgagtttta ttcaaactgc cgaaggattt
+      181 ctggagcaga cgtctaacat cattcaaaga atccgggtgc tcgccatcca gacttcgaat
+      241 ggtatctaca gtaatgaaga taggcagctc gtgcaggtgg aagtatctgc gctggtggat
+      301 gaagtcgatc gaattgcttc tcaggctgaa tttaataagt tcaaactttt tgaaggccaa
+      361 ttcgctagag gttccagggt tgcatccatg tggtttcata tgggtccaaa ccaaaatcag
+      421 cgtgaaagat tttacatagg cacgatgact tcaaaggctc tgaagcttgt aaaagcggac
+      481 gggaggccga tcgcgatctc ttctccggga gaggctaacg acgtgatcgg tctggctgat
+      541 gctgccctta cgaagatcat gaagcagaga gcggatatgg gagcttatta taataggctt
+      601 gaatataccg caaagggtct gatgggtgcg tatgaaaata tgcaggcatc tgaatctaga
+      661 attcgagacg ccgatatggc ggaggaagtt gtctcgctga ccacaaaaca aatacttgta
+      721 cagagtggta cggcaatgtt ggcgca
+//
+LOCUS       AB512011                1504 bp    DNA     linear   BCT 30-JUL-2010
+DEFINITION  Aggregatibacter actinomycetemcomitans gene for 16S ribosomal RNA,
+            partial sequence, strain: IDH392.
+ACCESSION   AB512011
+VERSION     AB512011.1
+KEYWORDS    .
+SOURCE      Aggregatibacter actinomycetemcomitans
+  ORGANISM  Aggregatibacter actinomycetemcomitans
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+            Pasteurellaceae; Aggregatibacter.
+REFERENCE   1
+  AUTHORS   Takada,K., Saito,M., Tsuzukibashi,O., Kawashima,Y., Ishida,S. and
+            Hirasawa,M.
+  TITLE     Characterization of a new serotype g isolate of Aggregatibacter
+            actinomycetemcomitans
+  JOURNAL   Mol Oral Microbiol 25 (3), 200-206 (2010)
+   PUBMED   20536747
+REFERENCE   2  (bases 1 to 1504)
+  AUTHORS   Takada,K. and Hirasawa,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2009) Contact:Kazuko Takada Nihon University
+            School of Dentistry at Matsudo, Department of Microbiology and
+            Immunology; Sakaecho-nishi 2-870-1, Matsudo, Chiba 271-8587, Japan
+FEATURES             Location/Qualifiers
+     source          1..1504
+                     /organism="Aggregatibacter actinomycetemcomitans"
+                     /mol_type="genomic DNA"
+                     /strain="IDH392"
+                     /serotype="d"
+                     /db_xref="taxon:714"
+     rRNA            <1..>1504
+                     /product="16S ribosomal RNA"
+ORIGIN
+        1 tagagtttga tcatggctca gattgaacgc tggcggcagg cttaacacat gcaagtcgga
+       61 cggtagcagg agaaagcttg ctttcttgct gacgagtggc ggacgggtga gtaatgcttg
+      121 gggatctgtc ttatggaggg ggataacgac gggaaactgt cgctaatacc gcgtagagtc
+      181 gggagacgaa agtgcgggac cttagggccg catgccatga gatgagccca agtgtgatta
+      241 ggtagttggt ggggtaaagg cctaccaagc cgacgatcgc tagctggtct gagaggatgg
+      301 ccagccacac cgggactgag acacggcccg gactcctacg ggaggcagca gtggggaata
+      361 ttgcgcaatg ggggcaaccc tgacgcagcc atgccgcgtg aatgaagaag gccttcgggt
+      421 tgtaaagttc tttcggtgat gaggaaggtt ggtgtgttaa tagcatgcca acttgacgtt
+      481 aaatacagaa gaagcaccgg ctaactccgt gccagcagcc gcggtaatac ggggggtgct
+      541 agcgttaatc ggaataactg ggcgtaaagg gcacgtaggc ggacctttaa gtgaggtgtg
+      601 aaatccccgg gcttaacctg ggaattgcat ttcatactgg gggtctggag tactttaggg
+      661 aggggtagaa ttccacgtgt agcggtgaaa tgcgtagaga tgtggaggaa taccgaaggc
+      721 gaaggcagcc ccttggggat gtactgacgc tgatgtgcga aagcgtgggg agcaaacagg
+      781 attagatacc ctggtagtcc acgctgtaaa cggtgtcgat ttggggattg gggtttagcc
+      841 ctggtgcccg aagctaacgt gataaatcga ccgcctgggg agtacggccg caaggttaaa
+      901 actcaaatga attgacgggg gcccgcacaa gcggtggagc atgtggttta attcgatgca
+      961 acgcgaagaa ccttacctac tcttgacatc cgaagaagaa ctcagagatg ggtttgtgcc
+     1021 ttagggagct ttgagacagg tgctgcatgg ctgtcgtcag ctcgtgttgt gaaatgttgg
+     1081 gttaagtccc gcaacgagcg caacccttat cctttgttgc cagcgattag gtcgggaact
+     1141 caaaggagac tgccggtgat aaaccggagg aaggtgggga tgacgtcaag tcatcatggc
+     1201 ccttacgagt agggctacac acgtgctaca atggcgtata cagagggtaa ccaaccagcg
+     1261 atggggagtg aatctcagaa agtgcgtcta agttcggatt ggagtctgca actcgactcc
+     1321 atgaagtcgg aatcgctagt aatcgcgaat cagaatgttg cggtgaatac gttcccgggc
+     1381 cttgtacaca ccgcccgtca caccatggga gtgggttgta ccagaagtgg atagctgaac
+     1441 cgagagggtg gcgtttacca cggtatgatt catgactggg gtgaagtcgt aacaaggtag
+     1501 ccac
+//
+LOCUS       AB512012                1504 bp    DNA     linear   BCT 30-JUL-2010
+DEFINITION  Aggregatibacter actinomycetemcomitans gene for 16S ribosomal RNA,
+            partial sequence, strain: IDH781.
+ACCESSION   AB512012
+VERSION     AB512012.1
+KEYWORDS    .
+SOURCE      Aggregatibacter actinomycetemcomitans
+  ORGANISM  Aggregatibacter actinomycetemcomitans
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+            Pasteurellaceae; Aggregatibacter.
+REFERENCE   1
+  AUTHORS   Takada,K., Saito,M., Tsuzukibashi,O., Kawashima,Y., Ishida,S. and
+            Hirasawa,M.
+  TITLE     Characterization of a new serotype g isolate of Aggregatibacter
+            actinomycetemcomitans
+  JOURNAL   Mol Oral Microbiol 25 (3), 200-206 (2010)
+   PUBMED   20536747
+REFERENCE   2  (bases 1 to 1504)
+  AUTHORS   Takada,K. and Hirasawa,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2009) Contact:Kazuko Takada Nihon University
+            School of Dentistry at Matsudo, Department of Microbiology and
+            Immunology; Sakaecho-nishi 2-870-1, Matsudo, Chiba 271-8587, Japan
+FEATURES             Location/Qualifiers
+     source          1..1504
+                     /organism="Aggregatibacter actinomycetemcomitans"
+                     /mol_type="genomic DNA"
+                     /strain="IDH781"
+                     /serotype="d"
+                     /db_xref="taxon:714"
+     rRNA            <1..>1504
+                     /product="16S ribosomal RNA"
+ORIGIN
+        1 tagagtttga tcatggctca gattgaacgc tggcggcagg cttaacacat gcaagtcgga
+       61 cggtagcagg agaaagcttg ctttcttgct gacgagtggc ggacgggtga gtaatgcttg
+      121 gggatctgtc ttatggaggg ggataacgac gggaaactgt cgctaatacc gcgtagagtc
+      181 gggagacgaa agtgcgggac cttagggccg catgccatga gatgagccca agtgtgatta
+      241 ggtagttggt ggggtaaagg cctaccaagc cgacgatcgc tagctggtct gagaggatgg
+      301 ccagccacac cgggactgag acacggcccg gactcctacg ggaggcagca gtggggaata
+      361 ttgcgcaatg ggggcaaccc tgacgcagcc atgccgcgtg aatgaagaag gccttcgggt
+      421 tgtaaagttc tttcggtgat gaggaaggtt ggtgtgttaa tagcatgcca acttgacgtt
+      481 aaatacagaa gaagcaccgg ctaactccgt gccagcagcc gcggtaatac ggggggtgct
+      541 agcgttaatc ggaataactg ggcgtaaagg gcacgtaggc ggacctttaa gtgaggtgtg
+      601 aaatccccgg gcttaacctg ggaattgcat ttcatactgg gggtctggag tactttaggg
+      661 aggggtagaa ttccacgtgt agcggtgaaa tgcgtagaga tgtggaggaa taccgaaggc
+      721 gaaggcagcc ccttggggat gtactgacgc tgatgtgcga aagcgtgggg agcaaacagg
+      781 attagatacc ctggtagtcc acgctgtaaa cggtgtcgat ttggggattg gggtttagcc
+      841 ctggtgcccg aagctaacgt gataaatcga ccgcctgggg agtacggccg caaggttaaa
+      901 actcaaatga attgacgggg gcccgcacaa gcggtggagc atgtggttta attcgatgca
+      961 acgcgaagaa ccttacctac tcttgacatc cgaagaagaa ctcagagatg ggtttgtgcc
+     1021 ttagggagct ttgagacagg tgctgcatgg ctgtcgtcag ctcgtgttgt gaaatgttgg
+     1081 gttaagtccc gcaacgagcg caacccttat cctttgttgc cagcgattag gtcgggaact
+     1141 caaaggagac tgccggtgat aaaccggagg aaggtgggga tgacgtcaag tcatcatggc
+     1201 ccttacgagt agggctacac acgtgctaca atggcgtata cagagggtaa ccaaccagcg
+     1261 atggggagtg aatctcagaa agtgcgtcta agttcggatt ggagtctgca actcgactcc
+     1321 atgaagtcgg aatcgctagt aatcgcgaat cagaatgttg cggtgaatac gttcccgggc
+     1381 cttgtacaca ccgcccgtca caccatggga gtgggttgta ccagaagtgg atagctgaac
+     1441 cgagagggtg gcgtttacca cggtatgatt catgactggg gtgaagtcgt aacaaggtag
+     1501 ccac
+//
+LOCUS       AB474605                1797 bp    DNA     linear   BCT 24-JUL-2016
+DEFINITION  Microcystis aeruginosa mcyC gene for microcystin synthetase,
+            partial cds, strain: N-102.
+ACCESSION   AB474605
+VERSION     AB474605.1
+KEYWORDS    .
+SOURCE      Microcystis aeruginosa
+  ORGANISM  Microcystis aeruginosa
+            Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+            Microcystaceae; Microcystis.
+REFERENCE   1
+  AUTHORS   Nishizawa,A.
+  TITLE     Correlation between variation of McyB1 module and biosynthesis of
+            microcystin isoforms
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1797)
+  AUTHORS   Shirai,M., Nishizawa,T. and Nishizawa,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2009) Contact:Makoto Shirai Ibaraki University,
+            School of Agriculture; Chu-ou, 3-21-1, Ami, Ibaraki 300-0393, Japan
+FEATURES             Location/Qualifiers
+     source          1..1797
+                     /organism="Microcystis aeruginosa"
+                     /mol_type="genomic DNA"
+                     /strain="N-102"
+                     /db_xref="taxon:1126"
+                     /country="Japan:Lake Kasumigaura"
+     gene            <1..>1797
+                     /gene="mcyC"
+     CDS             <1..>1797
+                     /gene="mcyC"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="microcystin synthetase"
+                     /protein_id="BAH83659.1"
+                     /translation="PDCKLSEINLLTPEEQHQLLIEWNQTEVAYSQQCLHQLFEEKVR
+                     DNPEAIALIFDGEKLTYRELNNRANQVGHYLQEKGVTSEVLVGIFIERSFEMIIGILG
+                     IMKAGGAYVPLDPNYPPERLDYMISDSAISLLLTQQSLVQSLPENCPEILCLDTDWLK
+                     IANYSQENLTSPVKPENLAYVIYTSGSTGKPKGVMNIHRGICNTLKYNIDNYNLNSEE
+                     RILQITPFSFDVSVWEVFSSLTSGATLVVAKPDGYKDIDYLIDLIVQEQVTYFTCVPS
+                     ILRVFLQHPKSKDCHCLKRVIVGGEALSYELNQRFFQQLNCELYNAYGPTEAAVDATV
+                     WCCQPNSQLIPIGRPIANAQVYILDSYLQPVPIGVAGELHIGGMGLARGYLNQPELTA
+                     EKFIPHPFAQGKLYKTGDLARYLPDGNIEYLGRIDNQVKLRGLRIELGEIQTVLETHP
+                     NVEQTVVIMREDTLYNQRLVAYVIRKDTLLTSQDLRRFLQQKLPVYMIPSAFVMLSDF
+                     PLNPNGKIDVHKLPIPDETSLVESPYLAPRNSTETILVSLWQQLLQAGKIGVNDNFFE
+                     LGGHSLQAMNLMALIYEKMAIEIPLSMIYEKPT"
+ORIGIN
+        1 cccgattgta aattatctga gattaattta ttaacccctg aagaacagca tcaattacta
+       61 atagagtgga atcaaaccga agtcgcttat tctcaacagt gtttgcacca gttatttgaa
+      121 gaaaaagtta gagataatcc cgaggcaata gctcttattt ttgacggcga aaaattgacc
+      181 tatcgagagt taaataatcg agctaatcaa gtcggtcact atttacaaga aaaaggcgta
+      241 acttcagaag tattagtggg gatttttatt gagcgttcct ttgagatgat catcggaata
+      301 ttgggaatta tgaaagctgg gggagcttat gttcctttgg atcctaatta tccccctgag
+      361 cgcttggatt atatgatatc tgattcagct atctctctgt tgttaactca gcaatcttta
+      421 gttcaatctc taccagaaaa ttgccccgaa atactgtgtt tagatacaga ttggttaaag
+      481 atagctaatt atagtcaaga gaatttgacc tctccagtta aaccagaaaa tttagcttat
+      541 gttatataca cttctggttc aacaggaaaa cctaaaggtg tgatgaatat tcatagagga
+      601 atttgcaata ctctaaaata caatattgat aattataatc ttaactctga agagcgcatt
+      661 ctccaaatta ctccctttag ttttgatgtt tcggtttggg aagttttctc atctttaaca
+      721 tctggtgcta ccctagtcgt ggctaaacct gacgggtata aagatataga ttatttaata
+      781 gatttaattg tgcaagaaca agtaacttat ttcacttgtg ttccctcaat attgcgagtt
+      841 tttctgcaac atcccaagag caaagattgc cactgtttaa aacgagtaat tgtcggggga
+      901 gaagccttat cttatgaact caatcaacga ttttttcagc agttaaactg tgaattatat
+      961 aacgcttatg gaccaacaga agccgccgtt gatgctactg tctggtgctg tcagccaaat
+     1021 tcccagttaa ttcctattgg acgtcccatt gctaatgccc aagtttatat cctcgacagt
+     1081 tatctccaac cggttcctat tggtgttgct ggagaattac atattggtgg aatgggttta
+     1141 gcgcgtggat acctcaacca acctgaatta acggctgaaa aatttattcc tcatcctttt
+     1201 gctcagggga aattatataa aaccggggat ttagctcgct atcttcctga tggaaacatt
+     1261 gaatatttag gacggattga taatcaagtc aagctgagag gtttacgcat tgaattagga
+     1321 gaaattcaga cagttttaga aactcatccc aacgttgaac aaactgttgt gattatgcgg
+     1381 gaagatacct tatataatca acggttagtt gcttatgtaa tcagaaaaga tactttatta
+     1441 acttcccagg atttgcgtcg tttcttacag cagaaattac ccgtttacat gatcccttct
+     1501 gcctttgtca tgttgtcgga ttttccctta aatcctaatg ggaaaataga cgttcataaa
+     1561 ttgcctatac cggatgagac ttctctagtt gaatcaccct atttagcccc ccgcaattca
+     1621 acggaaacta tcttagtaag cctttggcaa caacttctac aagctggcaa gataggggtt
+     1681 aatgataact tctttgagtt ggggggtcat tccttacaag ctatgaatct tatggcttta
+     1741 atttatgaaa aaatggccat agaaattcct ttatcaatga tttatgaaaa gccaaca
+//
+LOCUS       AB474606                1797 bp    DNA     linear   BCT 24-JUL-2016
+DEFINITION  Microcystis aeruginosa mcyC gene for microcystin synthetase,
+            partial cds, strain: N-103.
+ACCESSION   AB474606
+VERSION     AB474606.1
+KEYWORDS    .
+SOURCE      Microcystis aeruginosa
+  ORGANISM  Microcystis aeruginosa
+            Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+            Microcystaceae; Microcystis.
+REFERENCE   1
+  AUTHORS   Nishizawa,A.
+  TITLE     Correlation between variation of McyB1 module and biosynthesis of
+            microcystin isoforms
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1797)
+  AUTHORS   Shirai,M., Nishizawa,T. and Nishizawa,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2009) Contact:Makoto Shirai Ibaraki University,
+            School of Agriculture; Chu-ou, 3-21-1, Ami, Ibaraki 300-0393, Japan
+FEATURES             Location/Qualifiers
+     source          1..1797
+                     /organism="Microcystis aeruginosa"
+                     /mol_type="genomic DNA"
+                     /strain="N-103"
+                     /db_xref="taxon:1126"
+                     /country="Japan:Lake Kasumigaura"
+     gene            <1..>1797
+                     /gene="mcyC"
+     CDS             <1..>1797
+                     /gene="mcyC"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="microcystin synthetase"
+                     /protein_id="BAH83660.1"
+                     /translation="PDCKLSEINLLTPEEQHQLLIEWNQTEVAYSQQCLHQLFEEKVR
+                     DNPEAIALIFDGEKLTYRELNNRANQVGHYLQEKGVTSEVLVGIFIERSFEMIIGILG
+                     IMKAGGAYVPLDPNYPPERLDYMISDSAISLLLTQQSLVQSLPENCPEILCLDTDWLK
+                     IANYSQENLTSPVKPENLAYVIYTSGSTGKPKGVMNIHRGICNTLKYNIDNYNLNSEE
+                     RILQITPFSFDVSVWEVFSSLTSGATLVVAKPDGYKDIDYLIDLIVQEQVTYFTCVPS
+                     ILRVFLQHPKSKDCHCLKRVIVGGEALSYELNQRFFQQLNCELYNAYGPTEAAVDATV
+                     WCCQPNSQLIPIGRPIANAQVYILDSYLQPVPIGVAGELHIGGMGLARGYLNQPELTA
+                     EKFIPHPFAQGKLYKTGDLARYLPDGNIEYLGRIDNQVKLRGLRIELGEIQTVLETHP
+                     NVEQTVVIMREDTLYNQRLVAYVIRKDTLLTSQDLRRFLQQKLPVYMIPSAFVMLSDF
+                     PLNPNGKIDVHKLPIPDETSLVESPYLAPRNSTETILVSLWQQLLQAGKIGVNDNFFE
+                     LGGHSLQAMNLMALIYEKMAIEIPLSMIYEKPT"
+ORIGIN
+        1 cccgattgta aattatctga gattaattta ttaacccctg aagaacagca tcaattacta
+       61 atagagtgga atcaaaccga agtcgcttat tctcaacagt gtttgcacca gttatttgaa
+      121 gaaaaagtta gagataatcc cgaggcaata gctcttattt ttgacggcga aaaattgacc
+      181 tatcgagagt taaataatcg agctaatcaa gtcggtcact atttacaaga aaaaggcgta
+      241 acttcagaag tattagtggg gatttttatt gagcgttcct ttgagatgat catcggaata
+      301 ttgggaatta tgaaagctgg gggagcttat gttcctttgg atcctaatta tccccctgag
+      361 cgcttggatt atatgatatc tgattcagct atctctctgt tgttaactca gcaatcttta
+      421 gttcaatctc taccagaaaa ttgccccgaa atactgtgtt tagatacaga ttggttaaag
+      481 atagctaatt atagtcaaga gaatttgacc tctccagtta aaccagaaaa tttagcttat
+      541 gttatataca cttctggttc aacaggaaaa cctaaaggtg tgatgaatat tcatagagga
+      601 atttgcaata ctctaaaata caatattgat aattataatc ttaactctga agagcgcatt
+      661 ctccaaatta ctccctttag ttttgatgtt tcggtttggg aagttttctc atctttaaca
+      721 tctggtgcta ccctagtcgt ggctaaacct gacgggtata aagatataga ttatttaata
+      781 gatttaattg tgcaagaaca agtaacttat ttcacttgtg ttccctcaat attgcgagtt
+      841 tttctgcaac atcccaagag caaagattgc cactgtttaa aacgagtaat tgtcggggga
+      901 gaagccttat cttatgaact caatcaacga ttttttcagc agttaaactg tgaattatat
+      961 aacgcttatg gaccaacaga agccgccgtt gatgctactg tctggtgctg tcagccaaat
+     1021 tcccagttaa ttcctattgg acgtcccatt gctaatgccc aagtttatat cctcgacagt
+     1081 tatctccaac cggttcctat tggtgttgct ggagaattac atattggtgg aatgggttta
+     1141 gcgcgtggat acctcaacca acctgaatta acggctgaaa aatttattcc tcatcctttt
+     1201 gctcagggga aattatataa aaccggggat ttagctcgct atcttcctga tggaaacatt
+     1261 gaatatttag gacggattga taatcaagtc aagctgagag gtttacgcat tgaattagga
+     1321 gaaattcaga cagttttaga aactcatccc aacgttgaac aaactgttgt gattatgcgg
+     1381 gaagatacct tatataatca acggttagtt gcttatgtaa tcagaaaaga tactttatta
+     1441 acttcccagg atttgcgtcg tttcttacag cagaaattac ccgtttacat gatcccttct
+     1501 gcctttgtca tgttgtcgga ttttccctta aatcctaatg ggaaaataga cgttcataaa
+     1561 ttgcctatac cggatgagac ttctctagtt gaatcaccct atttagcccc ccgcaattca
+     1621 acggaaacta tcttagtaag cctttggcaa caacttctac aagctggcaa gataggggtt
+     1681 aatgataact tctttgagtt ggggggtcat tccttacaag ctatgaatct tatggcttta
+     1741 atttatgaaa aaatggccat agaaattcct ttatcaatga tttatgaaaa gccaaca
+//
+LOCUS       AB647615                2820 bp    DNA     linear   BCT 27-JAN-2017
+DEFINITION  Escherichia coli eae gene for intimin, complete cds, serovar:
+            O128:HNM, isolate: EC2175.
+ACCESSION   AB647615
+VERSION     AB647615.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Ooka,T., Seto,K., Kawano,K., Kobayashi,H., Etoh,Y., Ichihara,S.,
+            Kaneko,A., Isobe,J., Yamaguchi,K., Horikawa,K., Gomes,T.A.,
+            Linden,A., Bardiau,M., Mainil,J.G., Beutin,L., Ogura,Y. and
+            Hayashi,T.
+  TITLE     Clinical significance of Escherichia albertii
+  JOURNAL   Emerging Infect. Dis. 18 (3), 488-492 (2012)
+   PUBMED   22377117
+  REMARK    DOI:10.3201/eid1803.111401
+REFERENCE   2  (bases 1 to 2820)
+  AUTHORS   Hayashi,T. and Ooka,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2011) Contact:Tetsuya Hayashi Kyushu University,
+            Department of Bacteriology, Faculty of Medical Sciences; 3-1-1
+            Maedashi, Higashi-ku, Fukuoka 812-8582, Japan
+FEATURES             Location/Qualifiers
+     source          1..2820
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /serovar="O128:HNM"
+                     /isolate="EC2175"
+                     /isolation_source="feces"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:562"
+                     /country="Japan"
+                     /note="enterohemorrhagic Escherichia coli"
+     gene            1..2820
+                     /gene="eae"
+     CDS             1..2820
+                     /gene="eae"
+                     /note="beta1;
+                     outer membrane protein, mediates attaching and effacing
+                     lesion"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="intimin"
+                     /protein_id="BAL47187.1"
+                     /translation="MITHGFYARTRHKHKLKKTFIMLSAGLGLFFYVNQNSFANGENY
+                     FKLSSDSKLLTQNAAQDRLFYTLKTGETVANISKSQGISLSVIWSLNKHLYSSESEMM
+                     KAGPGQQIILPLKKLSVEYSALPVLGSAPVVAAGGVAGHTNKMTKMSPDATKSNTTDD
+                     KALNYAAQQAASLGSQLQSRSLNGDYAKDTALGMASSQASSQLQAWLQHYGTAEVNLQ
+                     SGNNFDGSSLDFLLPFYDSENMLAFGQVGARYIDSRFTANLGAGQRFFLPENMLGYNV
+                     FIDQDFSGDNTRLGIGGEYWRDYFKSSVNGYFRMSGWHESYNKKDYDERPANGFDIRF
+                     NGYLPSYPALGAKLMYEQYYGDNVALFNSDKLQSNPGAATVGVNYTPIPLVTMGIDYR
+                     HGTGNENDLLYSMQFRYQFDKPWSQQIEPQYVNELRTLSGSRYDLVQRNNNIILEYKK
+                     QDILSLNIPHDINGTEHSTQKIQLIVKSKYGLDRIVWDDSALRSQGGEIQHGGSQSAQ
+                     DYQAILPAYVQSGSNIYKVTARAYDRNGNSSNNVQLTITVLPNGQVVDQVGVTDFTAD
+                     KTSAKADGIEAITYTATVKKNGVAQANVPVTFSIVSGTATLGANSARTDGNGKATVTL
+                     KSATPGQVVVSAKTAEMTSPLNASAVIFVDQTKASITEIKADKTTAKADGSDAITYTV
+                     RVMKEGAPVVDQKVTFSKDFGTLNKTEATTDQNGYATVKLSSNTPGKAIVSAKVSGVG
+                     TEVKATTVEFFAPLSIDGDKVTVIGTGITGALPKNWLQYGQVKLQATGGNGKYTWKSS
+                     NTKIASVDNSGVITLNEKGSATITVVSGDNQSATYTINAPGSIVIAVDKNTRVTYFDA
+                     ENKCKTNSANLAQSKELLANIYSTWGAANKYPYYSGSESLTAWIKQSSSEQSSGVSST
+                     YDLVTKNQLINVGVNNKNAFSVCVK"
+ORIGIN
+        1 atgattactc atggttttta tgcccggacc cggcacaagc ataagctaaa aaaaacattt
+       61 attatgctta gtgctggttt aggattgttt ttttatgtta accagaattc atttgcaaat
+      121 ggtgaaaatt attttaaatt gagttcagat tcaaaactgt taactcaaaa tgccgctcag
+      181 gatcgccttt tttatacgtt aaaaacaggt gaaactgttg ccaatatttc taaatcacag
+      241 ggtatcagtt tatcggtaat ttggtcactg aataaacatt tatacagttc cgaaagcgaa
+      301 atgatgaagg ctggacctgg tcagcagatc attttgccac tcaaaaaact gtctgttgaa
+      361 tatagtgcct tacctgtctt aggttcggca cctgttgttg ctgcaggtgg tgtcgctggt
+      421 catacgaata aaatgactaa aatgtccccg gacgcgacta aaagcaacac gaccgatgac
+      481 aaggctctaa attatgcggc acaacaggcc gcgagccttg gtagccagct ccagtcgcgc
+      541 tcactgaacg gcgattacgc gaaagatacc gctcttggta tggccagcag ccaggcttcg
+      601 tcacagttgc aggcctggtt acaacattat ggaacggcag aggttaatct gcagagtggt
+      661 aataactttg acggtagttc actggacttc ttattaccgt tctatgattc cgaaaacatg
+      721 ctggcatttg gtcaggtcgg tgcgcgttac attgactccc gctttacggc aaatttaggt
+      781 gctggccagc gttttttcct tcctgaaaat atgttgggct ataacgtctt cattgatcag
+      841 gatttttctg gtgataatac ccgtttaggt attggtggcg aatactggcg agactatttc
+      901 aaaagtagcg ttaacggcta tttccgcatg agcggctggc atgagtcata caataagaaa
+      961 gactatgatg agcgcccggc aaatggtttt gatatccgct ttaatggcta tttaccatca
+     1021 tatccggcat taggcgccaa actgatgtac gaacagtatt atggtgataa tgttgctttg
+     1081 tttaattccg ataagttgca gtcgaatcct ggcgcggcga ccgttggtgt aaactacact
+     1141 ccgattcctc tggtgacgat ggggatcgat taccgtcatg gtacgggtaa tgaaaatgat
+     1201 ctcctttact caatgcagtt ccgttatcag tttgataaac cgtggtctca gcaaatcgag
+     1261 ccacagtatg ttaacgagtt aagaacatta tcgggcagcc gttacgatct ggttcagcgt
+     1321 aataacaata ttattctgga gtacaaaaag caggatattc tttctctgaa tattccgcat
+     1381 gatattaatg gtactgaaca cagtacgcag aagattcaat tgatcgttaa gagcaaatac
+     1441 ggtctggatc gtatcgtctg ggatgatagc gcattacgca gtcagggcgg tgagattcag
+     1501 catggcggaa gccaaagcgc acaagactac caggctattt tgcctgctta tgtgcaaagc
+     1561 ggcagcaata tttataaagt gaccgctcgc gcctatgacc gaaatggtaa tagttctaat
+     1621 aatgtacagc tcactattac cgttttaccg aatgggcagg ttgtggacca ggttggggta
+     1681 acggacttta cggctgataa aacatcggct aaagcggatg gcatagaagc tattacctat
+     1741 accgcgacgg ttaaaaagaa tggtgtagct caggctaatg tccctgtaac atttagtatt
+     1801 gtatccggga ctgcaactct tggggcaaat agtgccagaa cggatggtaa cggtaaggcg
+     1861 accgtaacgc tgaagtcggc tacgccagga caggtcgtcg tgtctgctaa aaccgcggag
+     1921 atgacttcgc cacttaatgc cagcgcggtt atatttgttg atcaaaccaa ggccagtatt
+     1981 actgagatta aggctgataa aacaacagcg aaggcagatg gttctgatgc gattacctat
+     2041 actgtcagag tgatgaagga gggggcaccc gtagtagatc agaaagtgac cttttctaag
+     2101 gattttggga ccctgaataa gactgaagca acaaccgatc agaatggtta tgctactgta
+     2161 aaattatcat ccaatactcc tggcaaggcc attgttagtg caaaagtgag tggagtaggt
+     2221 acagaagtta aggctactac cgttgagttt tttgccccgt tgagtattga tggtgataaa
+     2281 gtgaccgtaa ttggtactgg tatcacgggg gctctgccaa agaactggtt acagtatggt
+     2341 caggttaagc tacaggcaac agggggcaat ggaaaataca catggaaatc cagtaatact
+     2401 aaaattgctt ctgttgataa ctcgggagtg ataaccttaa atgaaaaagg gagtgccaca
+     2461 attactgtag tatctggtga taatcagagt gcgacataca caattaatgc accgggtagt
+     2521 attgtaattg ctgtggataa aaatactcga gttacgtatt ttgatgccga aaacaaatgt
+     2581 aagacaaata gcgcaaattt agcacagtca aaagaactat tggccaatat ctattcaaca
+     2641 tggggtgctg caaataaata tccttactat tctggttctg aatcattgac tgcttggatt
+     2701 aaacaatcct cttctgaaca gtcatcaggt gtatcaagca catatgattt ggttacgaag
+     2761 aaccagttga tcaatgttgg agtaaacaat aagaatgctt tttctgtttg tgtaaaataa
+//
+LOCUS       AB647616                2820 bp    DNA     linear   BCT 27-JAN-2017
+DEFINITION  Escherichia coli eae gene for intimin, complete cds, serovar:
+            O63:H6, isolate: EC2689.
+ACCESSION   AB647616
+VERSION     AB647616.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Ooka,T., Seto,K., Kawano,K., Kobayashi,H., Etoh,Y., Ichihara,S.,
+            Kaneko,A., Isobe,J., Yamaguchi,K., Horikawa,K., Gomes,T.A.,
+            Linden,A., Bardiau,M., Mainil,J.G., Beutin,L., Ogura,Y. and
+            Hayashi,T.
+  TITLE     Clinical significance of Escherichia albertii
+  JOURNAL   Emerging Infect. Dis. 18 (3), 488-492 (2012)
+   PUBMED   22377117
+  REMARK    DOI:10.3201/eid1803.111401
+REFERENCE   2  (bases 1 to 2820)
+  AUTHORS   Hayashi,T. and Ooka,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2011) Contact:Tetsuya Hayashi Kyushu University,
+            Department of Bacteriology, Faculty of Medical Sciences; 3-1-1
+            Maedashi, Higashi-ku, Fukuoka 812-8582, Japan
+FEATURES             Location/Qualifiers
+     source          1..2820
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /serovar="O63:H6"
+                     /isolate="EC2689"
+                     /isolation_source="feces"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:562"
+                     /country="Japan"
+                     /note="enterohemorrhagic Escherichia coli"
+     gene            1..2820
+                     /gene="eae"
+     CDS             1..2820
+                     /gene="eae"
+                     /note="alpha2;
+                     outer membrane protein, mediates attaching and effacing
+                     lesion"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="intimin"
+                     /protein_id="BAL47188.1"
+                     /translation="MITHGCYTRTRHKHKLKKTLIMLSAGLGLFFYVNQNSFANGENY
+                     FKLGSDSKLLTHDSYQNRLFYTLKTGETVADLSKSQDINLSTIWSLNKHLYSSESEMM
+                     KAAPGQQIILPLKKLPFEYSALPLLGSAPLVAAGGVAGHTNKLTKMSPDVTKSNMTDD
+                     KALNYAAQQAASLGSQLQSRSLNGDYAKDTALGIAGNQASSQLQAWLQHYGTAEVNLQ
+                     SGNNFDGSSLDFLLPFYDSEKMLAFGQVGARYIDSRFTANLGAGQRFFLPENMLGYNV
+                     FIDQDFSGDNTRLGIGGEYWRDYFKSSVNGYFRMSGWHESYNKKDYDERPANGFDIRF
+                     NGYLPSYPALGARLMYEQYYGDNVALFNSDKLQSNPGAATVGVNYTPIPLVTMGIDYR
+                     HGTGNENDLLYSMQFRYQFDKPWSQQIEPQYVNELRTLSGSRYDLVQRNNNIILEYKK
+                     QDILSLNIPHDINGTERSTQKIQLIVKSKYGLDRIVWDDSSLRSQGGQIQHSGSQSAQ
+                     DYQAILPAYVQGGSNIYKVTARAYDRNGNSSNNVQLTITVLSNGQVVDQVGVTDFTAD
+                     KTSAKADGNEAITYTATVKKNGVAQANVPVSFNIVSGTAVLSANSANTNGSGKATVTL
+                     KSDKPGQVVVSAKTAEMTSALNANAVIFVDQSKASITEIKADKTTAVANGKDAITYTV
+                     KVMKNGQPVSGEEVTFTKTLGTLSKPTEKTDANGYAKVTLTSATQGKSLVSARVSDVA
+                     VDVKAPEVEFFTPLTVDDGNIEIVGTGVKGKLPTVWLQYGQVKLKASGGNGKYTWRSA
+                     NTAIASVDASSGQVTLKDKGTTTITVVSSDNQTATYTIATPNSLIVPNMSKRVTYNDA
+                     VNTCKILGGRLPSSQDELKNVFNTWGAANKYEYYKSLLTISSWVQQTTVDMNSGVAST
+                     YDLVRQNPLNGVETNTTNAYATCVK"
+ORIGIN
+        1 atgattactc atggttgtta tacccggacc cggcacaagc ataagctaaa aaaaacattg
+       61 attatgctta gtgctggttt aggattgttt ttttatgtta atcagaattc atttgcaaat
+      121 ggtgaaaatt attttaaatt gggttcggat tcaaaactgt taactcatga tagctatcag
+      181 aatcgccttt tttatacgtt gaaaacaggt gaaactgttg ccgatctttc taaatcacaa
+      241 gatattaatt tatcgacgat ttggtcgttg aataagcatt tatacagttc tgaaagcgaa
+      301 atgatgaagg ccgcgcctgg tcagcagatc attttgccac tcaaaaaact tccctttgaa
+      361 tacagtgcac taccactttt aggttcggca cctcttgttg ctgcaggtgg tgttgctggt
+      421 cacacgaata aactgactaa aatgtccccg gacgtgacca aaagcaacat gaccgatgac
+      481 aaggcattaa attatgcggc acaacaggcg gcgagtctcg gtagccagct tcagtcgcga
+      541 tctctgaacg gcgattacgc gaaagatacc gctcttggta tcgctggtaa ccaggcttcg
+      601 tcacagttgc aggcctggtt acaacattat ggaacggcag aggttaatct gcagagtggt
+      661 aataactttg acggtagttc actggacttc ttattaccgt tctatgattc cgaaaaaatg
+      721 ctggcatttg gtcaggtcgg agcgcgttac attgactccc gctttacggc aaatttaggt
+      781 gcgggtcagc gttttttcct tcctgaaaat atgttgggct ataacgtctt cattgatcag
+      841 gatttttctg gtgataatac ccgtttaggt attggtggcg aatactggcg agactatttc
+      901 aaaagtagtg ttaacggcta tttccgcatg agcggctggc atgagtcata caataagaaa
+      961 gactatgatg agcgcccagc aaatggcttc gatatccgtt ttaatggcta tctgccatca
+     1021 tacccggcat taggtgccag gctgatgtat gagcagtatt atggtgataa tgttgctttg
+     1081 tttaattctg ataagctgca gtcgaatcct ggtgcggcga ccgttggtgt aaactatact
+     1141 ccgattcctc tggtgacgat ggggatcgat taccgtcatg gtacgggtaa tgaaaatgat
+     1201 ctcctttact caatgcagtt ccgttatcag tttgataaac cgtggtctca gcaaattgag
+     1261 ccacagtatg ttaacgagtt aagaacatta tcaggcagcc gttacgatct ggttcagcgt
+     1321 aataacaata ttattctgga gtacaaaaag caggatattc tttctctgaa tattccgcat
+     1381 gatattaatg gtactgaacg cagtacgcag aagattcaat tgatcgttaa gagcaaatac
+     1441 ggtctggatc gtatcgtctg ggatgatagt tcattacgta gccagggcgg tcagattcag
+     1501 catagcggaa gccaaagcgc acaagattac caggctattt tgcctgctta tgtgcaaggt
+     1561 ggcagcaata tttataaagt gacggctcgc gcctatgacc gtaatggcaa tagctctaac
+     1621 aatgtacagc ttactattac cgttctgtcg aatggtcaag ttgtcgacca ggttggggta
+     1681 acggacttta cggctgataa gacatcggct aaagcggacg gcaacgaagc gattacttat
+     1741 accgcgacgg tcaaaaagaa tggggtagct caggctaatg tccctgtttc atttaacatt
+     1801 gtttcaggaa ctgcagtttt aagtgccaat agtgccaata ccaatggtag cggtaaggcg
+     1861 actgtaacgc tgaaatcgga taaaccaggc caggtcgtcg tgtctgctaa aacagcggag
+     1921 atgacttcag cgcttaatgc caatgcggtc atatttgttg atcaaagtaa ggctagtatt
+     1981 accgagatta aggctgataa aacaactgca gtagcaaatg gtaaggatgc tattacatac
+     2041 actgttaaag tgatgaaaaa tggtcagccg gtatccggcg aagaagtgac ctttacgaag
+     2101 accttaggta cattaagtaa gcccactgaa aaaacggatg cgaatggcta tgctaaagta
+     2161 acattaacat cggcgactca agggaaatcc ctcgttagtg cccgtgttag cgatgtcgcc
+     2221 gttgacgtca aagcccctga agttgaattt tttacaccac ttacagttga tgacggtaat
+     2281 attgaaattg ttggaaccgg agttaaaggg aagttaccta ctgtatggtt gcaatatgga
+     2341 caagttaagc tgaaagctag cggaggtaac ggaaaatata catggcgctc agcaaataca
+     2401 gcgattgctt cggtggatgc ctcttctggt caggtcacct taaaagataa gggaactaca
+     2461 actattaccg ttgtctcaag tgataatcaa accgcaactt atactattgc aacacctaat
+     2521 agcctgattg ttcctaatat gagcaagcgt gtgacttata atgatgctgt gaatacatgt
+     2581 aagattttgg gaggaagatt accctcttct caggatgaac tgaaaaatgt ctttaacaca
+     2641 tggggagcag caaataaata tgaatattac aagtctcttc tgactataag ctcttgggta
+     2701 caacaaacaa cagtggatat gaacagtgga gttgcaagta catacgatct agttagacaa
+     2761 aaccctctta atggcgttga aactaatact actaatgctt atgccacttg tgtaaaataa
+//
+LOCUS       AB489889                2037 bp    DNA     linear   BCT 28-MAY-2009
+DEFINITION  Staphylococcus aureus coa gene for staphylocoagulase precursor,
+            complete cds, strain: SD2:176-3.
+ACCESSION   AB489889
+VERSION     AB489889.1
+KEYWORDS    .
+SOURCE      Staphylococcus aureus
+  ORGANISM  Staphylococcus aureus
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1
+  AUTHORS   Watanabe,S., Ito,T., Sasaki,T., Li,S., Uchiyama,I., Kishii,K.,
+            Kikuchi,K., Skov,R.L. and Hiramatsu,K.
+  TITLE     Genetic Diversity of Staphylocoagulase Genes (coa): Insight into
+            the Evolution of Variable Chromosomal Virulence Factors in
+            Staphylococcus aureus
+  JOURNAL   Unpublished
+  REMARK    Publication_Status: Online-Only
+REFERENCE   2  (bases 1 to 2037)
+  AUTHORS   Li,S., Ito,T., Watanabe,S., Sasaki,T. and Hiramatsu,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2009) Contact:Teruyo Ito Juntendo University,
+            Department of Bacteriology; Hongo 2-1-1, Bunkyo-ku, Tokyo 113-8421,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..2037
+                     /organism="Staphylococcus aureus"
+                     /mol_type="genomic DNA"
+                     /strain="SD2:176-3"
+                     /db_xref="taxon:1280"
+                     /country="Japan: Miyagi"
+                     /note="CA-MRSA strain carried by healthy children"
+     gene            1..2037
+                     /gene="coa"
+     CDS             1..2037
+                     /gene="coa"
+                     /function="coagulation of plasma"
+                     /note="serotype 1 coagulase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="staphylocoagulase precursor"
+                     /protein_id="BAH66294.1"
+                     /translation="MKKQIISLGALAVASSIFTWDNKADAIVTKDYSKESRVNENSKY
+                     GTLISDWYLKGRLTSLESQFINALDILETYHYGEKEYKDAKDKLMTRILGEDQYLLER
+                     KKVQYEEYKKLYQKYKEENPTSKVKMKTFHQYTIEDLTMREYNELTESLRSAVKDFEK
+                     DVERIENQHHDLKPFTDEMEEKATSRVDDLANKAYSVYFAFVRDTQHKTEALELKAKV
+                     DLVLGDEDKPHRISNERIEKEMIKDLESIIEDFFIETGLNKPVNITSYDSSKHHYKNH
+                     SEGFEALVKETREAVTNANDSWKTKTVKKYGETEIKSPVVKEEKKVEEPQSPKFDNQQ
+                     EVETTAGKAEETTQPVAQPLVKIPEGTIQGVTVEGPKYPTMEQHTIYGEIVKGPEYPT
+                     MENKTLQGEIVQGPDFLTMEQNRPSLSDNYTQPTTPNPILKGIEGTSSKLEIKPQGTE
+                     STLKGIQGESSDIEVKPQATETTEASQYGPRPQFNKTPKYVKYRDAGTGIREYNDGTF
+                     GYEARPRFNKPSETNAYNVTTNQDGTVTYGARPTQNKASKTNAYNVTTHANGQVSYGA
+                     RPTYKKPSETNAYNVTTHANGQVSYGARPTQNKASETNAYNVTTHANGQVSYGARPTQ
+                     NKPSKTNAYNVTTHGNGQVSYGARPTYKKPSETNAYNVTTHADGTATYGPRVTK"
+ORIGIN
+        1 atgaaaaagc aaataatttc gctaggcgca ttagcagttg catctagcat atttacatgg
+       61 gataacaaag cagatgcgat agtgacaaag gattatagca aagaatctag ggtgaatgag
+      121 aacagtaaat atgggacatt aatttcagac tggtatttaa aagggagatt aactagtcta
+      181 gaatctcaat ttatcaatgc attggatatt ttagagacat atcattatgg cgaaaaagag
+      241 tataaagatg caaaagataa attgatgaca agaattttag gggaagacca atacctttta
+      301 gaaagaaaaa aagtgcagta tgaggaatac aaaaaattat accaaaaata taaagaagag
+      361 aatccaacct ctaaagttaa aatgaaaaca ttccatcaat atacaataga agatttaact
+      421 atgagggaat ataatgagtt aacagaatcg ttaagaagtg ctgtaaaaga ctttgagaaa
+      481 gatgttgaaa gaattgaaaa tcaacatcat gatttgaaac catttactga tgaaatggaa
+      541 gagaaggcta cttctagagt tgatgattta gcaaataaag catatagtgt ttattttgca
+      601 tttgttaggg atacacaaca taaaactgag gcattagagt taaaagcgaa agtagattta
+      661 gttttaggtg atgaggataa accgcatcgt atttctaatg aaagaattga aaaagaaatg
+      721 ataaaagatt tagaatctat tattgaagat ttctttatag aaactggttt aaataagcct
+      781 gttaatatta cgagttatga tagtagtaaa catcactata aaaatcacag tgaaggtttt
+      841 gaggctctag ttaaagaaac aagagaagcg gtcacaaacg ctaatgattc ttggaaaact
+      901 aaaactgtca aaaaatacgg ggaaactgaa ataaaatcgc cagtagtaaa agaagagaag
+      961 aaagttgaag aacctcaatc acctaaattt gacaaccaac aagaggttga aactacggct
+     1021 ggtaaagctg aagaaacaac acaaccagtt gcacaacctc tagttaagat tccagaaggt
+     1081 acaattcaag gtgtaactgt agaaggacca aaatacccaa cgatggaaca gcacactatc
+     1141 tatggtgaaa ttgtaaaagg tccggaatat ccaacgatgg aaaataaaac gttacaaggt
+     1201 gaaatcgttc aaggtccaga ttttctaaca atggaacaaa acagaccatc tttaagcgac
+     1261 aattatacac aaccgacgac accgaaccct attttaaaag gtattgaagg aacctcatct
+     1321 aaacttgaaa taaaaccaca aggtactgaa tcaacgttga aaggtattca aggagaatca
+     1381 agtgatattg aagttaaacc tcaagcaact gaaacaacag aagcttctca atatggtccg
+     1441 agaccgcaat ttaacaaaac acctaagtat gttaaatata gagatgctgg tacaggtatc
+     1501 cgtgaataca acgatggaac atttggatat gaagcgagac caagattcaa taagccatca
+     1561 gaaacaaacg catacaacgt aacgacaaat caagatggca cagtaacata tggcgctcgt
+     1621 ccaacacaaa acaaggcaag caaaacaaac gcatataacg taacaacaca tgcaaacggt
+     1681 caagtatcat acggagctcg tccgacatac aagaagccaa gcgaaacgaa tgcatataac
+     1741 gtaacaacac atgcaaacgg tcaagtatca tatggcgctc gtccgacaca aaacaaggca
+     1801 agcgaaacaa atgcatacaa cgtaacaaca catgcaaatg gtcaagtatc atatggcgct
+     1861 cgtccgacac aaaacaagcc aagcaaaaca aacgcatata acgtaacaac acacggaaat
+     1921 ggccaagtat catacggcgc ccgcccgaca tacaagaagc caagcgaaac aaatgcatac
+     1981 aatgtaacaa cacatgcaga tggtactgcg acatatgggc ctagagtaac aaaataa
+//
+LOCUS       AB489890                2037 bp    DNA     linear   BCT 28-MAY-2009
+DEFINITION  Staphylococcus aureus coa gene for staphylocoagulase precursor,
+            complete cds, strain: W12.
+ACCESSION   AB489890
+VERSION     AB489890.1
+KEYWORDS    .
+SOURCE      Staphylococcus aureus
+  ORGANISM  Staphylococcus aureus
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1
+  AUTHORS   Watanabe,S., Ito,T., Sasaki,T., Li,S., Uchiyama,I., Kishii,K.,
+            Kikuchi,K., Skov,R.L. and Hiramatsu,K.
+  TITLE     Genetic Diversity of Staphylocoagulase Genes (coa): Insight into
+            the Evolution of Variable Chromosomal Virulence Factors in
+            Staphylococcus aureus
+  JOURNAL   Unpublished
+  REMARK    Publication_Status: Online-Only
+REFERENCE   2  (bases 1 to 2037)
+  AUTHORS   Li,S., Ito,T., Watanabe,S., Sasaki,T. and Hiramatsu,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2009) Contact:Teruyo Ito Juntendo University,
+            Department of Bacteriology; Hongo 2-1-1, Bunkyo-ku, Tokyo 113-8421,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..2037
+                     /organism="Staphylococcus aureus"
+                     /mol_type="genomic DNA"
+                     /strain="W12"
+                     /db_xref="taxon:1280"
+                     /country="Japan: Kyoto"
+                     /note="CA-MRSA strain carried by healthy children"
+     gene            1..2037
+                     /gene="coa"
+     CDS             1..2037
+                     /gene="coa"
+                     /function="coagulation of plasma"
+                     /note="serotype 1 coagulase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="staphylocoagulase precursor"
+                     /protein_id="BAH66295.1"
+                     /translation="MKKQIISLGALAVASSLFTWDNKADAIVTKDYSEESRVNENSKY
+                     GTLISDWYLRGRLTSLESQFINALDILETYHYGEKEYKDAKDKLMTRILGEDQYLLER
+                     KKVQYEEYKKLYQKYKEENPTSKVKMKTFHQYTIEDLTMREYNELTESLRSAVKDFEK
+                     DVERIENQHHDLKPFTDEMEEKATSRVDDLANKAYSVYFAFVRDTQHKTEALELKAKV
+                     DLVLGDEDKPHRISNERIEKEMIKDLESIIEDFFIETGLNKPVNITSYDSSKHHYKNH
+                     SEGFEALVKETREAVTNANDSWKTKAVKKYGETEIKSPVVKEEKKVEEPQSPKFDNQQ
+                     EVETTAGKAEETTQPVAQPLVKIPEGTIQGVPVEGPKYPTMEQHTIYGEIVKGPEYPT
+                     MENKTLQGEIVQGPDFLTMEQNRPSLSDNYTQPTTPNPILKGIEGTSSKLEIKPQGTE
+                     STLKGIQGESSDIEVKPQATETTEASQYGPRPQFNKTPKYVKYRDAGTGIREYNDGTF
+                     GYEARPRFNKPSETNAYNVTTNQDGTVTYGARPTQNKASKTNAYNVTTHANGQVSYGA
+                     RPTYKKPSETNAYNVTTHANGQVSYGARPTQNKASETNAYNVTTHANGQVSYGARPTQ
+                     NKPSKTNAYNVTTHGNGQVSYGARPTYKKPSETNAYNVTTHADGTATYGPRVTK"
+ORIGIN
+        1 atgaaaaagc aaataatttc gctaggcgca ttagcagttg catctagctt atttacatgg
+       61 gataacaaag cagatgcgat agtgacaaag gattatagcg aagaatctag ggtgaatgag
+      121 aacagtaaat atgggacatt aatttcagac tggtatttaa gagggagatt aactagtcta
+      181 gaatctcaat ttatcaatgc attggatatt ttagagacat atcattatgg cgaaaaagag
+      241 tataaagatg caaaagataa attgatgaca agaattttag gggaagacca atacctttta
+      301 gaaagaaaaa aagtgcagta tgaggaatac aaaaaattat accaaaaata taaagaagag
+      361 aatccaacct ctaaagttaa aatgaaaaca ttccatcaat atacaataga agatttaact
+      421 atgagggaat ataatgagtt aacagaatcg ttaagaagtg ctgtaaaaga ctttgagaaa
+      481 gatgttgaaa gaattgaaaa tcaacatcat gatttgaaac catttactga tgaaatggaa
+      541 gagaaggcta cttctagagt tgatgattta gcaaataaag catatagtgt ttattttgca
+      601 tttgttaggg atacacaaca taaaactgag gcattagagt taaaagcgaa agtagattta
+      661 gttttaggtg atgaggataa accgcatcgt atttctaatg aaagaattga aaaagaaatg
+      721 ataaaagatt tagaatctat tattgaagat ttctttatag aaactggttt aaataagcct
+      781 gttaatatta cgagttatga tagtagtaaa catcactata aaaatcacag tgaaggtttt
+      841 gaggctctag ttaaagaaac aagagaagcg gtcacaaacg ctaatgattc ttggaaaact
+      901 aaagctgtca aaaaatacgg ggaaactgaa ataaaatcgc cagtagtaaa agaagagaag
+      961 aaagttgaag aacctcaatc acctaaattt gacaaccaac aagaggttga aactacggct
+     1021 ggtaaagctg aagaaacaac acaaccagtt gcacaacctc tagttaagat tccagaaggt
+     1081 acaattcaag gtgtacctgt agaaggacca aaatacccaa cgatggaaca gcacactatc
+     1141 tatggtgaaa ttgtaaaagg tccggaatat ccaacgatgg aaaataaaac gttacaaggt
+     1201 gaaatcgttc aaggtccaga ttttctaaca atggaacaaa acagaccatc tttaagcgac
+     1261 aattatacac aaccgacgac accgaaccct attttaaaag gtattgaagg aacctcatct
+     1321 aaacttgaaa taaaaccaca aggtactgaa tcaacgttga aaggtattca aggagaatca
+     1381 agtgatattg aagttaaacc tcaagcaact gaaacaacag aagcttctca atatggtccg
+     1441 agaccgcaat ttaacaaaac acctaagtat gttaaatata gagatgctgg tacaggtatc
+     1501 cgtgaataca acgatggaac atttggatat gaagcgagac caagattcaa taagccatca
+     1561 gaaacaaacg catacaacgt aacgacaaat caagatggca cagtaacata tggcgctcgt
+     1621 ccaacacaaa acaaggcaag caaaacaaac gcatataacg taacaacaca tgcaaacggt
+     1681 caagtatcat acggagctcg tccgacatac aagaagccaa gcgaaacgaa tgcatataac
+     1741 gtaacaacac atgcaaacgg tcaagtatca tatggcgctc gtccgacaca aaacaaggca
+     1801 agcgaaacaa atgcatacaa cgtaacaaca catgcaaatg gtcaagtatc atatggcgct
+     1861 cgtccgacac aaaacaagcc aagcaaaaca aacgcatata acgtaacaac acacggaaat
+     1921 ggccaagtat catacggcgc ccgcccgaca tacaagaagc caagcgaaac aaatgcatac
+     1981 aatgtaacaa cacatgcaga tggtactgcg acatatgggc ctagagtaac aaaataa
+//
+LOCUS       AB246740                3531 bp    DNA     linear   BCT 12-JUL-2006
+DEFINITION  Helicobacter pylori cagA gene for cytotoxin associated protein A,
+            complete cds, strain:OK313.
+ACCESSION   AB246740
+VERSION     AB246740.1
+KEYWORDS    .
+SOURCE      Helicobacter pylori
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+            Helicobacteraceae; Helicobacter.
+REFERENCE   1
+  AUTHORS   Satomi,S., Azuma,T., Yamakawa,A., Matsunaga,S., Masaki,R.,
+            Inagaki,T., Okuda,T., Suto,H., Keida,Y., Kutsumi,H., Ito,Y.,
+            Yamazaki,Y. and Kuriyama,M.
+  TITLE     Relationship between the diversity of the cagA gene of Helicobacter
+            pylori and gastric cancer in Okinawa, Japan
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3531)
+  AUTHORS   Yamazaki,Y., Satomi,S. and Yamakawa,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2006) Yukinao Yamazaki, University of Fukui,
+            Second Department of Internal Medicine, Faculty of Medical
+            Sciences; 23-3 Shimoaizuki Matsuoka-cho, Yoshida-gun, Fukui
+            910-1193, Japan (E-mail:yamazaki@fmsrsa.fukui-med.ac.jp,
+            Tel:81-776-61-8351, Fax:81-776-61-8110)
+FEATURES             Location/Qualifiers
+     source          1..3531
+                     /organism="Helicobacter pylori"
+                     /mol_type="genomic DNA"
+                     /strain="OK313"
+                     /db_xref="taxon:210"
+     gene            1..3531
+                     /gene="cagA"
+     CDS             1..3531
+                     /gene="cagA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytotoxin associated protein A"
+                     /protein_id="BAE97705.1"
+                     /translation="MTNETIDQTTTPDQTLNQTDFVPQRFINNLQVAFIKVDNAVASF
+                     DPDQKPIVDKNDRDNRQAFEKISQLREEYANKAIKNPAKKNQYFSDFINKSNDLINKD
+                     NLIAVDSSVESFRKFGDQRYQIFTSWVSLQKDPSKINTQQIRDFMENIIQPPISDDKE
+                     KAEFLRSAKQSFAGIIIGNQIRSDEKFMGVFDESLKARQEAEKNAEPAGGDWLDIFLS
+                     FVFNKKQSSDLKETLNQEPMPNVEQNLATTTTDIQGLPPEARDLLDERGNFFKFTLGD
+                     VEMLDVEGVADKDPNYKFNQLLIHNNALSSVLMGSHSSIEPEKVSLLYGDNGGPEARH
+                     DWNATVGYKNQQGNNVATLINAHLNNGSGLIIAGNEDGIKNPSFYLYKEDQLTGLKQA
+                     LSQEEIQNKVDFMEFLAKNNAKLDNLSEKEKEKFQTEIEDFQKNRKAYLDALGNDRVA
+                     FVSKKDPKHLALVTEFGNGEVSYTLKDYGKKQDKALDGETKTTLQGSLKYDGVMFVNY
+                     SNFKYTNASKSPDKGVGATNGVSHLEANFSKVAVFNLPNLNNLAITNYIRRDLENKLW
+                     AKGLSSQETNKLIKDFLNSNKGLVGKVSNFNKAVAEAKNTGNYDEVKKAQKDLEKSLR
+                     KREHLEKEVAKKLESRNDNKNRMEAKAQANSQKDKIFALINQEASKEARAAAFDPNLK
+                     GIRSELSDKLENINKNLKDFGKSFDELKNGKNNDFSKVEETLKALKDSVKDLGINPEW
+                     ISKIENLNAALNDFKNGKNKDFSKVIQAKSDLENSIKDVIINQKITDKVDNLNQAVSE
+                     TKLTGNFSKVEQALAELKSLSLDLGKNSDLQKSVKNGVNGTLVGNGLSKTEATTLTKN
+                     FSDIRKELNEKLFGNSNNNNNGLKNSAEPIYAQVNKKKTGQATSPEEPIYAQVAKKVS
+                     AKIDQLNEATSAINRKIDRINKIASAGKGVGAFSGARRSASPEPIYATIDFDEANQAG
+                     FPLRRSAAVNDLSKVGLSREQELTRRIGDLNQAVSEAKTGHFDNLEQKIDELKDSTKK
+                     NALKLWVESAKQVPTGLQAKLDNYATNSHTRINSNVRSGAINEKATGMLTQKNPEWLK
+                     LVNDKIVAHNVGSTHLSEYDKIGFNQKNMKDYSDSFKFSTKLNNAVKDIKSSFVQFLT
+                     NTFSTGSYSLIKANMEHGVKNTTKGGFQKS"
+ORIGIN
+        1 atgactaacg aaactattga tcaaacaaca acaccagatc aaacactaaa ccaaacggat
+       61 tttgttccgc aacgatttat caataatctt caagtagctt ttatcaaagt tgataacgct
+      121 gtcgcttcat ttgatcctga tcaaaaacca atcgttgata agaatgatag ggataacagg
+      181 caagcttttg agaaaatctc gcaactaagg gaagaatacg ccaataaagc gatcaaaaat
+      241 cctgccaaaa agaatcagta tttttcagac tttatcaata agagcaatga tttgatcaac
+      301 aaagacaatc tcattgctgt agattcttcc gtagagagct ttcggaaatt tggggatcag
+      361 cgttaccaaa tttttacgag ttgggtgtcc cttcaaaaag atccgtctaa aatcaacacc
+      421 caacaaatcc gagattttat ggaaaatatc atacaacccc ctatctctga tgataaggaa
+      481 aaagcagagt ttttgaggtc tgccaaacaa tcttttgcag gaattatcat agggaatcaa
+      541 atccgatcgg atgaaaaatt catgggcgtg tttgatgaat ctttgaaagc aaggcaagaa
+      601 gcagaaaaaa atgcagagcc tgctggtggg gattggcttg atattttttt atcatttgtg
+      661 tttaacaaaa aacaatcttc cgatctcaaa gaaacgctca atcaagagcc aatgcctaat
+      721 gttgaacaaa atttagccac taccaccacc gacatacaag gcttaccgcc tgaagctagg
+      781 gatttgcttg atgaaagggg taattttttt aaattcactc ttggtgatgt ggagatgttg
+      841 gatgttgagg gagtcgctga caaggatccc aattacaagt tcaatcaatt attgatccac
+      901 aataacgctc tatcttctgt gctaatgggg agtcatagca gcatagaacc tgaaaaagtt
+      961 tcattattgt atggggataa tggtggtcct gaagctaggc atgattggaa cgctaccgtt
+     1021 ggttataaaa accaacaagg caacaatgtg gccacactca tcaatgcgca tcttaataac
+     1081 ggcagcgggt taatcatagc gggtaatgag gatgggatta aaaaccctag cttctatctc
+     1141 tataaagaag accaactcac aggcttgaaa caagcgttga gtcaagaaga gatccaaaac
+     1201 aaagtggatt tcatggaatt tcttgcaaaa aacaacgcta aattagacaa cttgagcgag
+     1261 aaagagaaag aaaaattcca aactgagatt gaagatttcc aaaaaaatcg taaggcttat
+     1321 ttagacgctc tagggaatga tcgtgttgct tttgtttcta aaaaagaccc aaaacattta
+     1381 gctttggtta ctgagtttgg taatggggaa gtgagctata ctctcaaaga ttatgggaaa
+     1441 aaacaagata aagctttaga tggggagaca aaaaccactc ttcaaggtag cctaaaatat
+     1501 gatggcgtga tgtttgtcaa ttattccaat ttcaaataca ccaacgcttc caagagtcct
+     1561 gataagggcg tgggtgctac gaatggcgtt tcccatttgg aagcaaattt tagtaaggta
+     1621 gctgtcttta atttgcctaa tttaaataat ctcgctatca ctaattatat aaggcgagat
+     1681 ttagaaaata aattgtgggc taaaggattg tcctcacaag aaactaataa gctcatcaaa
+     1741 gactttttga acagcaacaa gggattggtt ggaaaagttt caaacttcaa taaagctgta
+     1801 gctgaagcta aaaacacagg caattatgat gaagtgaaaa aagctcagaa agatcttgaa
+     1861 aaatctctaa ggaaacgaga gcatttagag aaagaagtag cgaaaaaatt ggagagcaga
+     1921 aacgacaaca aaaatagaat ggaagcaaaa gctcaagcta acagccaaaa agataagatt
+     1981 tttgcgttga tcaatcaaga ggctagtaag gaagcaagag cggccgcttt cgatccgaat
+     2041 cttaaaggca tcaggagcga attgtctgat aaacttgaaa atatcaacaa gaatttgaaa
+     2101 gactttggca aatcttttga tgaactcaaa aatggcaaaa ataatgattt cagcaaggta
+     2161 gaagaaacgc taaaagccct taaagactcg gtgaaagatt taggcatcaa tccagaatgg
+     2221 atttcaaaaa ttgaaaacct taatgcagct ttgaatgatt tcaaaaatgg caaaaataag
+     2281 gatttcagca aggtaataca agcaaaaagc gaccttgaaa attccattaa ggatgtgatc
+     2341 attaatcaaa agataacgga taaagttgac aatctcaatc aggctgtatc agagactaaa
+     2401 ttaacaggca atttcagtaa ggtagagcaa gccctagccg aactcaaaag cttgtcattg
+     2461 gatcttggaa aaaattctga tctacaaaaa tccgttaaaa atggtgtaaa tggaacccta
+     2521 gtcggtaatg ggttatctaa aacagaagcc acaacgctca ccaaaaattt ttcggatatc
+     2581 aggaaagaat tgaacgagaa attatttgga aattccaata acaataataa tggactcaaa
+     2641 aacagcgcag agcctattta tgctcaagtc aataaaaaga aaacaggaca agcaactagc
+     2701 cctgaagagc ccatttacgc tcaagttgct aaaaaggtga gtgcaaaaat tgaccaactc
+     2761 aacgaagcta catcagcaat aaatagaaaa attgaccgga ttaacaaaat tgcatcagca
+     2821 ggtaaaggag tgggcgcttt cagtggagca aggcgatcag ctagccctga acccatttac
+     2881 gctacaattg attttgatga ggcaaatcaa gcaggcttcc ctttgagaag aagtgctgca
+     2941 gttaatgatc tcagtaaagt agggctttca agagaacaag aattgactcg tagaattggc
+     3001 gatctcaatc aggcagtgtc agaagctaaa acaggtcatt ttgacaacct agaacaaaag
+     3061 atagatgaac tcaaagattc tacaaaaaag aatgctttga agctatgggt tgaaagtgcg
+     3121 aaacaagtgc ctactggttt gcaagcgaaa ttggacaatt acgctactaa cagccacaca
+     3181 cgcattaata gcaatgtccg aagtggagca atcaatgaaa aagcgactgg catgctaacg
+     3241 caaaaaaacc ctgagtggct caagctcgtg aatgataaga tagttgcaca taatgtggga
+     3301 agcactcatt tgtcagagta tgataaaatt ggattcaacc aaaagaatat gaaagattat
+     3361 tctgattcgt tcaagttttc caccaagttg aacaatgccg taaaagacat taagtctagc
+     3421 tttgtgcaat ttttaaccaa tacattttct acaggatctt acagcttgat aaaagcaaat
+     3481 atggaacatg gagtcaaaaa tactacaaaa ggtggtttcc aaaaatctta a
+//
+LOCUS       AB246741                3531 bp    DNA     linear   BCT 12-JUL-2006
+DEFINITION  Helicobacter pylori cagA gene for cytotoxin associated protein A,
+            complete cds, strain:OK314.
+ACCESSION   AB246741
+VERSION     AB246741.1
+KEYWORDS    .
+SOURCE      Helicobacter pylori
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+            Helicobacteraceae; Helicobacter.
+REFERENCE   1
+  AUTHORS   Satomi,S., Azuma,T., Yamakawa,A., Matsunaga,S., Masaki,R.,
+            Inagaki,T., Okuda,T., Suto,H., Keida,Y., Kutsumi,H., Ito,Y.,
+            Yamazaki,Y. and Kuriyama,M.
+  TITLE     Relationship between the diversity of the cagA gene of Helicobacter
+            pylori and gastric cancer in Okinawa, Japan
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3531)
+  AUTHORS   Yamazaki,Y., Satomi,S. and Yamakawa,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2006) Yukinao Yamazaki, University of Fukui,
+            Second Department of Internal Medicine, Faculty of Medical
+            Sciences; 23-3 Shimoaizuki Matsuoka-cho, Yoshida-gun, Fukui
+            910-1193, Japan (E-mail:yamazaki@fmsrsa.fukui-med.ac.jp,
+            Tel:81-776-61-8351, Fax:81-776-61-8110)
+FEATURES             Location/Qualifiers
+     source          1..3531
+                     /organism="Helicobacter pylori"
+                     /mol_type="genomic DNA"
+                     /strain="OK314"
+                     /db_xref="taxon:210"
+     gene            1..3531
+                     /gene="cagA"
+     CDS             1..3531
+                     /gene="cagA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytotoxin associated protein A"
+                     /protein_id="BAE97706.1"
+                     /translation="MTNETIDQTTTPDQTPNQTDFVPQRFINNLQVAFIKVDNAVASF
+                     DPDQKPIVDKNDRDNRQAFEKISQLREEYANKAIKNPTKKNQYFSDFINKSNDLINKD
+                     NLIAVDSSVESFRKFGDQRYQIFTSWVSLQKDPSKIDTQQIRNFMENIIQPPISDDKE
+                     KAEFLRSAKQSFAGIIIGNQIRSDEKFMGVFDESLKERQEAEKNGEPAGGDWLDIFLS
+                     FVFNKKQSSDLKETLDQEPVPHVQPDIATTTTDIQGLPPESRDFLDERGNFSKFTLGD
+                     MEMLDVEGVADIDPNYKFNQLLIHNNALSSVLMGGHGNIEPEKVSLLYGGNGGPEARH
+                     DWNATVGYKNQQGNNVATLINVHMKNGSGLVIAGGEKGVNNPSFYLYKEDQLTGLKQA
+                     LSQKEIQNKVDFMEFLAQNNAKLDNLSEKEKEKFQTEIENFQKDRKAYLDALGNDHIA
+                     FVSKKDPKHLALVTEFGNGEVSYTLKDYGKKQDKALDGETKTTLQGNLKYDGVMFVNY
+                     SNFKYTNASKSPDKGVGATNGVSHLEANFSKVAVFNLPNLNNLAITNYIRRDLEDKLW
+                     AKGLSSQEANKLIKDFLNSNKEMVGKFSNFNKAVAEAKNTGNYDEVKKAQKDLEKSLR
+                     KREHLEKEVAKKLESRNGNKNRMEAKAQANSQKDKIFALINKEASKEARAVAFDPNLK
+                     GVRSELSDKLENINKNLNAFNKSFDELKNGKNNDFSKAEETLKALKDSVKDLGINPEW
+                     ISKIENLNAALNDFKNGKNKDFSKVTQAKSDLENSIKDVIINQKITDKVDNLNQAVSE
+                     TKLTGDFSKVEQALAELKSLSLDLGKNSDLQKSIKNGVNGTLVGNGLSKTEATTLTKN
+                     FSDIRRELNEKLFGNSNNNNNGLKNNTEPIYAQVNKKKTGQAASPEEPIYAQVAKKVS
+                     AKIDQLNEATSAINRKVDRINKIASAGKGVGGFSGAGRSASPEPIYATIDFDEANQAG
+                     FPLRRSTAVNDLSKVGLSREQELTRRIGDLNQAVSEAKTGHFGNLEQKIDELKDSTKK
+                     NALKLWVESAKQVPTSLQAKLDNYATNSHTRINSNVQSGTINEKATGMLTQKNPEWLK
+                     LVNDKIVAHNIGSAPLSEYDKIGFNQKNMKDYSDSFKFSTKLNNAVKDIKSSFVQFLT
+                     NTFSTGSYSLMKANVEHGVKNTTKGGFQKS"
+ORIGIN
+        1 atgactaacg aaactattga tcaaacaaca acaccagatc aaacaccaaa ccaaacggat
+       61 tttgttccgc aacgatttat caataatctt caagtggctt ttattaaagt tgataacgct
+      121 gtcgcttcat ttgatcccga tcaaaaacca atcgttgata agaatgatag ggataacagg
+      181 caagcttttg agaaaatctc gcaactaaga gaagaatacg ccaataaagc gatcaaaaat
+      241 cccaccaaaa agaatcagta tttttcagac tttatcaata agagcaatga tttgatcaac
+      301 aaagacaatc tcattgctgt agattcttcc gtagagagct ttcggaaatt tggggatcag
+      361 cgttaccaaa tttttacgag ttgggtgtcc cttcaaaaag atccgtctaa aatcgacacc
+      421 caacaaatcc gaaattttat ggaaaatatc atacaacccc ctatctctga tgataaagaa
+      481 aaagcggagt ttttgaggtc tgccaaacaa tcttttgcag gaattatcat agggaatcaa
+      541 atccgatcgg atgaaaaatt catgggcgtg tttgatgaat ctttgaaaga aaggcaagaa
+      601 gcagaaaaaa atggagagcc tgctggtggg gattggcttg atattttttt atcatttgtg
+      661 tttaacaaaa aacaatcttc cgatctcaaa gaaacgctcg atcaagaacc agttcctcat
+      721 gtccaaccag atatagccac taccaccacc gacatacaag gcttaccgcc tgaatctagg
+      781 gattttcttg atgaaagggg taatttttct aaattcactc ttggtgatat ggaaatgtta
+      841 gatgttgagg gtgtcgctga cattgatcct aattacaagt tcaaccaatt attgattcac
+      901 aataacgctc tgtcttctgt gttaatgggg ggtcatggca acatagaacc tgaaaaagtt
+      961 tcattattgt atgggggcaa tggtggtcct gaagctaggc atgattggaa cgccaccgtt
+     1021 ggttataaaa accaacaagg caacaatgtg gccacactca ttaatgtgca tatgaaaaac
+     1081 ggcagtgggt tagtcatagc aggtggtgag aaaggggtta acaaccctag tttttatctc
+     1141 tacaaagaag accagctcac aggcttgaaa caagcattga gtcaaaaaga gatccaaaac
+     1201 aaagtggatt tcatggaatt tcttgcacaa aacaacgcta aattagacaa cttgagcgag
+     1261 aaagagaaag aaaaattcca aactgagatt gaaaatttcc aaaaagaccg taaggcttat
+     1321 ttggacgctc tagggaatga tcacattgct tttgtttcta aaaaagaccc aaaacattta
+     1381 gctttggtta ctgagtttgg taatggggaa gtgagctata ctctcaaaga ttatgggaaa
+     1441 aaacaagata aagctttaga tggggagaca aaaaccactc ttcaaggtaa cctaaaatat
+     1501 gatggcgtga tgtttgttaa ttattctaat ttcaaataca ccaacgcctc caagagtcct
+     1561 gataagggcg tgggcgctac gaatggcgtt tcgcatttgg aagcaaattt tagcaaggta
+     1621 gctgtcttta atttgcctaa tttaaataat ctcgctatca ctaattatat aaggcgagat
+     1681 ttagaagata aattgtgggc taaaggattg tcctcacaag aagctaataa gctcatcaaa
+     1741 gactttttga acagcaacaa agaaatggtt ggaaaatttt caaacttcaa taaagctgta
+     1801 gctgaagcta aaaatacagg caattatgat gaagtgaaaa aagctcagaa agatcttgaa
+     1861 aaatctctaa ggaaacgaga gcatttagag aaagaagtag cgaaaaaatt ggagagcaga
+     1921 aacggcaaca aaaatagaat ggaagcaaaa gctcaagcta acagccaaaa agataagatt
+     1981 tttgcactta tcaataaaga ggctagtaag gaagcaagag cggtcgcttt cgatccgaat
+     2041 cttaaaggcg tcaggagcga attgtctgat aaacttgaaa atatcaacaa gaatttgaat
+     2101 gcctttaata aatcttttga tgaactcaaa aatggcaaaa ataatgattt cagcaaggca
+     2161 gaagaaacgc taaaagccct taaagactcg gtgaaagatt taggcatcaa tccagaatgg
+     2221 atttcaaaaa ttgaaaacct taatgcagct ttgaatgatt tcaaaaatgg taaaaataag
+     2281 gatttcagca aggtaacaca agcaaaaagc gaccttgaaa attccattaa ggatgtgatc
+     2341 atcaatcaaa agataacgga taaagttgac aatctcaatc aggctgtatc agagactaaa
+     2401 ttaacaggcg atttcagtaa ggtagagcaa gccctagccg aactcaaaag cttgtcattg
+     2461 gatcttggaa aaaattctga tctacaaaaa tccattaaaa atggtgtaaa tggaacccta
+     2521 gtcggtaatg ggttgtctaa aacagaagcc acaacgctca ccaaaaattt ttcggacatc
+     2581 aggagagaat tgaacgagaa attatttgga aattccaata acaataataa tggactcaaa
+     2641 aacaacacag agcccattta cgctcaagtt aataaaaaga aaacaggaca agcagctagc
+     2701 cctgaagagc ccatttacgc tcaagttgcc aaaaaggtga gtgcaaaaat tgaccaactc
+     2761 aacgaagcta catcagcaat aaatagaaaa gttgaccgga ttaacaaaat tgcatcagca
+     2821 ggtaaaggag tgggcggttt cagtggagca gggcgatcag ctagccctga acccatttac
+     2881 gctacaattg attttgatga ggcaaatcaa gcaggcttcc ctttgaggag aagcactgca
+     2941 gttaatgatc tcagtaaagt agggctttca agggaacaag aattgactcg tagaattggc
+     3001 gatctcaatc aggcggtatc agaagctaaa acaggtcatt ttggcaacct agaacaaaag
+     3061 atagatgaac tcaaggattc tacgaaaaag aatgctttga agttatgggt tgaaagcgcg
+     3121 aaacaagtgc ctactagttt gcaagcgaaa ttggacaatt acgctactaa cagccacaca
+     3181 cgcattaata gcaatgtcca aagtggaaca atcaatgaaa aagcgaccgg catgctaacg
+     3241 caaaaaaacc ctgagtggct caagctcgtg aatgataaga tagttgcaca taatatagga
+     3301 agcgctcctt tgtcagagta tgataaaatt ggattcaacc aaaagaatat gaaagattat
+     3361 tctgattcgt tcaagttttc caccaagttg aacaatgccg taaaagacat taagtctagc
+     3421 tttgtgcaat ttttaaccaa tacattttct acaggatctt acagcttgat gaaagcaaat
+     3481 gtggaacatg gagtcaaaaa tactacaaaa ggtggtttcc aaaaatctta a
+//
