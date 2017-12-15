@@ -6,7 +6,7 @@ data_set1 = SequenceParser.GenBank("data/test_data.txt")
 
 division = 100  # length of input string for DXDrop algorithm
 
-f = open("data/results1.txt", 'w')
+f = open("data/results.txt", 'w')
 
 for i in range(0, len(data_set1), 2):
     pair = [data_set1[i], data_set1[i+1]]
