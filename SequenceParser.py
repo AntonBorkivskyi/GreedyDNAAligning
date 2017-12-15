@@ -11,7 +11,7 @@ class SequenceParser():
         """
         with open(file_name) as f:
             string = ''.join([line.strip() for line in f.readlines()])
-            return Sequence(0, string)
+            return [Sequence(0, string)]
 
     @staticmethod
     def FASTQ(file_name):
